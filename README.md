@@ -59,4 +59,4 @@ Interactive Power BI dashboard analyzing **120 years of Olympic history (1896–
 
 ---
 
-# ⭐ If you like this project, don't forget to Star the repository!# 🏅 Olympic Insights Dashboard - Power BI
+### ⭐ If you like this project, don't forget to Star the repository!
