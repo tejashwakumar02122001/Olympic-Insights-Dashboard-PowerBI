@@ -17,3 +17,5 @@ Interactive Power BI dashboard analyzing 120 years of Olympic history (1896–20
 ├── README.md
 ├── LICENSE
 └── .gitignore
+
+<img width="1279" height="689" alt="olympics insight dashboard" src="https://github.com/user-attachments/assets/596e013f-3b03-4872-b5c4-3d9addad42de" />
